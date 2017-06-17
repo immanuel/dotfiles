@@ -122,5 +122,3 @@ function cd
     fi
 }
 alias bd="popd > /dev/null"
-
-alias vim='mvim -v'
